@@ -1,4 +1,4 @@
-<p align="center"> <img src="unit205.png" alt="unit205" width="200"/> </p>
+<p align="center"> <img src="unit205.png" alt="unit205" width="500"/> </p>
 
 <h1 align="center">UNIT 205</h1>
 
