@@ -46,42 +46,18 @@
   <img src="https://img.shields.io/badge/Burp_Suite-000000?style=flat-square&logo=burpsuite&logoColor=0BDA51" /> 
   <img src="https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=0BDA51" /> 
 </p>
+<h3 align="center">ACTIVITY AND ENGAGEMENT</h3>
 
-<h3 align="center">OPERATIONAL WORKFLOW</h3>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unit205&layout=compact&theme=radical&hide_border=true" /> </p>
 
-```mermaid
-graph TD;
-    subgraph Offensive
-    A[Reconnaissance] --> B[Vulnerability Discovery];
-    B --> C[Exploit Development];
-    end
-    C --> D[Privilege Escalation];
-    D --> E[Data Exfiltration];
-    subgraph Defensive
-    E --> F[Hardening & Remediation];
-    F --> G[Verification];
-    end
-    style A fill:#000,stroke:#0BDA51,stroke-width:2px,color:#0BDA51
-    style B fill:#000,stroke:#0BDA51,stroke-width:2px,color:#0BDA51
-    style C fill:#000,stroke:#0BDA51,stroke-width:2px,color:#0BDA51
-    style D fill:#000,stroke:#0BDA51,stroke-width:2px,color:#0BDA51
-    style E fill:#000,stroke:#0BDA51,stroke-width:2px,color:#0BDA51
-    style F fill:#000,stroke:#0BDA51,stroke-width:2px,color:#0BDA51
-    style G fill:#000,stroke:#0BDA51,stroke-width:2px,color:#0BDA51
-```
-
-<h3 align="center">METRICS & ACTIVITY</h3>
-
-<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dunit205%26layout%3Dcompact%26theme%3Dhighcontrast%26color_title%3D0BDA51%26text_color%3D0BDA51%26bg_color%3D000000%26hide_border%3Dtrue" /> </p>
-
-<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dunit205%26theme%3Dgithub-dark%26color%3D0BDA51%26bg_color%3D000000%26hide_border%3Dtrue" /> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=unit205&theme=react-dark&hide_border=true" /> </p>
 
 <h3 align="center">COMMUNICATION CHANNELS</h3>
 
-<p align="center"> <strong>Secure Email:</strong> <a href="mailto:a.unit.205@gmail.com">unit205@gmail.com</a> </p>
+<p align="center"> <strong>Email:</strong> <a href="mailto:a.unit.205@gmail.com">unit205@gmail.com</a> </p>
 
-<p align="center"> <strong>Main Repository:</strong> <a href="https://codeberg.org/unit205">Codeberg/unit205</a> </p>
+<p align="center"> <strong>Codeberg:</strong> <a href="https://codeberg.org/unit205">unit205</a> </p>
 
-<p align="center"> <strong>Archive Mirror:</strong> <a href="https://github.com/unit205">GitHub/unit205</a> </p>
+<p align="center"> <strong>Owner:</strong> <a href="https://github.com/funbinet">Funbinet</a> </p>
 
-<p align="center"> <img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D20%26duration%3D4000%26pause%3D1000%26color%3D0BDA51%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DBreaching%2BPerimeters%3BAutomating%2BThe%2BHunt%3BDeploying%2BLeviathan%3BUnit%2B205%2BMonitoring..." alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=149414&center=true&vCenter=true&width=600&lines=Securing+Systems;Automating+The+Future;Developing+Leviathan;Developing+Omnisec" alt="Typing SVG" /> </p>
