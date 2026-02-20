@@ -19,7 +19,7 @@
 
 <p align="center"> <strong>Core Focus:</strong> Penetration Testing, Scripting (Bash/Python), and Exploit Research </p>
 
-<p align="center"> <strong>Primary Assets:</strong> <a href="https://codeberg.org/unit205">Leviathan & Omnisec Project</a> </p>
+<p align="center"> <strong>Primary Assets:</strong> <a href="https://github.com/unit205">GITHUB</a> | <a href="https://codeberg.org/unit205">CODEBERG</a> </p>
 
 <h3 align="center">TECHNOLOGY STACK</h3>
 
@@ -47,8 +47,6 @@
   <img src="https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=0BDA51" /> 
 </p>
 <h3 align="center">ACTIVITY AND ENGAGEMENT</h3>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unit205&layout=compact&theme=radical&hide_border=true" /> </p>
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=unit205&theme=react-dark&hide_border=true" /> </p>
 
